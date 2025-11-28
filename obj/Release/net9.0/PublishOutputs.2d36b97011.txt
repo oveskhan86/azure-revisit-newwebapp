@@ -1,0 +1,7 @@
+/Users/oveskhan/Desktop/Azure-Developer/Azure Revisit/azure-webapp-new/publish/azure-webapp-new
+/Users/oveskhan/Desktop/Azure-Developer/Azure Revisit/azure-webapp-new/publish/appsettings.Development.json
+/Users/oveskhan/Desktop/Azure-Developer/Azure Revisit/azure-webapp-new/publish/appsettings.json
+/Users/oveskhan/Desktop/Azure-Developer/Azure Revisit/azure-webapp-new/publish/azure-webapp-new.dll
+/Users/oveskhan/Desktop/Azure-Developer/Azure Revisit/azure-webapp-new/publish/azure-webapp-new.deps.json
+/Users/oveskhan/Desktop/Azure-Developer/Azure Revisit/azure-webapp-new/publish/azure-webapp-new.runtimeconfig.json
+/Users/oveskhan/Desktop/Azure-Developer/Azure Revisit/azure-webapp-new/publish/azure-webapp-new.pdb
